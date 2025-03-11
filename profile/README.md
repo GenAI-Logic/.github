@@ -82,11 +82,8 @@ Declare business logic with spreadsheet-like rules (40x more concise than code),
 &nbsp;
 
 
-**Here are some ideas to get you started:**
+🙋‍♀️ A short introduction - GenAI Logic is a wrapper to automate API Application lifecycle development
+🌈 Contribution guidelines - Join our Slack community
+👩‍💻 Useful resources - [docs](https://apilogicserver.github.io/Docs/Doc-Home/)
+🍿 Fun facts - We have been doing this for many years (Pace, Versata, Espresso Logic, Live API Creator)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
